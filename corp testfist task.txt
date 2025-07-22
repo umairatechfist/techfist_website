@@ -1,0 +1,8 @@
+corp testfist
+10:39 AM
+Microservice Architecture Services .
+corp testfist
+10:41 AM
+Distributed Computing Architecture Services
+AI Architecture Services
+https://www.networkbachelor.com/aws-iaas-reference-architecture-and-some-use-cases/

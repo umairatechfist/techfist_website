@@ -306,7 +306,13 @@ p{
     height: 100vh;
     position: relative;
 }
-
+.bg-services {
+    background-image: url('../images/home/home2.jpg');
+    background-size: cover;
+    background-position: center center;
+    height: 100vh;
+    position: relative;
+}
 .home-center {
     display: table;
     width: 100%;
